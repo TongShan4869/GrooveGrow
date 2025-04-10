@@ -70,6 +70,8 @@ or [CANVA page](https://www.canva.com/design/DAGkEEH4FCc/skTZiOMx2P6OS9dexFTtWg/
     - there might be “revival” modifier cards or bonus challenges that allow a player to regain HP to keep the game exciting.
     - **In Team Mode:** For cooperative or team-based play, aggregate HP across teams to build a shared defensive strategy against errors.
  
+---
+
 ### **Dynamics**
 
 The mechanics create an evolving challenge as players progressively build and modify a rhythmic sequence. Each player will adapt and creatively expand on the previous performance. Modifier Cards introduce unexpected changes and fun, encouraging spontaneous strategy and decision-making, while the HP system injects tension and urgency into every turn.
