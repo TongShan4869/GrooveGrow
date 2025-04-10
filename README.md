@@ -1,5 +1,5 @@
 # GrooveGrow
-This rhythm-based party game blends musical skill with physical movement challenges. 
+This rhythm-based party game blends musical skill with physical movement challenges, designed for rhythmic music skill and motor system coordination training.
 
 ## **Core Concept**
 
