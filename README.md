@@ -25,7 +25,7 @@ or [CANVA page](https://www.canva.com/design/DAGkEEH4FCc/skTZiOMx2P6OS9dexFTtWg/
         - or a random object that is accessible to the player. e.g., one thing in your pocket, pen, book etc.
 - **Fun Modifier Cards**
     - Cards that can modify the setup, make it either more difficult or easier!
-    - e.g., swap one rhythm cards from the last person, complexity plus 1, increase the bpm by 5, decrease the bpm by 10, beats change up, revival (add 1 HP), etc.
+    - e.g., swap one rhythm cards from the last person, complexity plus 1, increase the bpm by 10, decrease the bpm by 5, beats change up, revival (add 1 HP), etc.
 
 ### Setup and Card Draw
 
