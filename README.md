@@ -14,7 +14,7 @@ This creates a cumulative sequence that not only tests technical skill but also 
 
 ### **Card Decks**
 
-see Groove Grow - [Prototype Card Decks.pdf](https://github.com/TongShan4869/GrooveGrow/blob/main/Groove%20Grow%20-%20Prototype%20Card%20Decks.pdf)
+see [Groove Grow - Prototype Card Decks.pdf](https://github.com/TongShan4869/GrooveGrow/blob/main/Groove%20Grow%20-%20Prototype%20Card%20Decks.pdf)
 or [CANVA page](https://www.canva.com/design/DAGkEEH4FCc/skTZiOMx2P6OS9dexFTtWg/view?utm_content=DAGkEEH4FCc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h65f0b57859)
 
 - **Rhythm Cards**
