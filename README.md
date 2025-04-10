@@ -8,7 +8,7 @@ Each run (or round) of the game becomes a challenge where the first player plays
 - **Replicate and Expand:** Successfully replicate the previous player's sequence and add an additional rhythmic element from one of their cards, or
 - **Play a More Complicated Variation:** Introduce a new, more complex variation from their hand, surpassing the previous rhythm in overall complexity.
 
-This creates a cumulative sequence that not only tests memory but also rewards creative and technical skill.
+This creates a cumulative sequence that not only tests technical skill but also strategy scheming and decision-making.
 
 ## Rules & Structure
 
